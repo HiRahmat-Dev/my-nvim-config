@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/hirahmat/.oh-my-zsh/custom/plugins'
+let g:netrw_dirhist_5='/home/hirahmat/.oh-my-zsh/custom'
+let g:netrw_dirhist_4='/home/hirahmat/arsip-kerja/02-kulina.id/01-main-repos/kulina-ops'
+let g:netrw_dirhist_3='/home/hirahmat/arsip-kerja/02-kulina.id'
+let g:netrw_dirhist_2='/home/hirahmat/arsip-kerja/02-kulina.id/01-main-repos'
+let g:netrw_dirhist_1='/home/hirahmat/arsip-kerja/02-kulina.id/01-main-repos/kulina-ops'
